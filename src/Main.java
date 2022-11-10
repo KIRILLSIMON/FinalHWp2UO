@@ -52,7 +52,7 @@ switch (mounthOfYearNumber) {
         break;
 
     default:
-        System.out.println("Такого месяца НЕ существует!!!");
+        System.out.println("Такого глупого месяца НЕ существует!!!");
 
 
 
